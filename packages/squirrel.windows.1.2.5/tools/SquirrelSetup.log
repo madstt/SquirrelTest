@@ -1,0 +1,896 @@
+﻿2016-02-29 20:44:02> Program: Starting Squirrel Updater: -releasify .\SquirrelTest.1.0.0.nupkg
+2016-02-29 20:44:02> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 20:44:02> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-02-29 20:44:02> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-02-29 20:44:02> ReleasePackage: Extracting dependent packages: []
+2016-02-29 20:44:02> ReleasePackage: Removing unnecessary data
+2016-02-29 20:44:02> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 20:44:03> Program: Building embedded zip file for Setup.exe
+2016-02-29 20:49:41> Program: Starting Squirrel Updater: -releasify .\SquirrelTest.1.0.1.nupkg
+2016-02-29 20:49:41> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 20:49:41> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.1.nupkg
+2016-02-29 20:49:41> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.1.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.1-full.nupkg
+2016-02-29 20:49:41> ReleasePackage: Extracting dependent packages: []
+2016-02-29 20:49:41> ReleasePackage: Removing unnecessary data
+2016-02-29 20:49:41> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 20:49:41> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.1-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-02-29 20:49:42> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-02-29 20:49:42> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-02-29 20:49:42> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-02-29 20:49:42> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-02-29 20:49:42> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-02-29 20:49:42> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-02-29 20:49:42> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-02-29 20:49:42> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-02-29 20:49:42> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 20:49:42> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-02-29 20:49:42> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 20:49:42> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-02-29 20:49:42> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-02-29 20:49:42> Program: Building embedded zip file for Setup.exe
+2016-02-29 20:56:52> Program: Starting Squirrel Updater: -releasify .\SquirrelTest.1.0.2.nupkg
+2016-02-29 20:56:52> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 20:56:52> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.2.nupkg
+2016-02-29 20:56:52> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.2.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.2-full.nupkg
+2016-02-29 20:56:53> ReleasePackage: Extracting dependent packages: []
+2016-02-29 20:56:53> ReleasePackage: Removing unnecessary data
+2016-02-29 20:56:53> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 20:56:53> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.1-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.2-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-02-29 20:56:54> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-02-29 20:56:54> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-02-29 20:56:54> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-02-29 20:56:54> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-02-29 20:56:54> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-02-29 20:56:54> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-02-29 20:56:54> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-02-29 20:56:54> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-02-29 20:56:54> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 20:56:54> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-02-29 20:56:54> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 20:56:54> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-02-29 20:56:54> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-02-29 20:56:54> Program: Building embedded zip file for Setup.exe
+2016-02-29 21:12:08> Program: Starting Squirrel Updater: -releasify .\SquirrelTest.1.0.3.nupkg
+2016-02-29 21:12:08> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:12:08> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.3.nupkg
+2016-02-29 21:12:08> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.3.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.3-full.nupkg
+2016-02-29 21:12:08> ReleasePackage: Extracting dependent packages: []
+2016-02-29 21:12:08> ReleasePackage: Removing unnecessary data
+2016-02-29 21:12:08> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 21:12:08> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.2-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.3-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-02-29 21:12:09> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-02-29 21:12:09> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-02-29 21:12:09> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-02-29 21:12:09> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-02-29 21:12:09> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-02-29 21:12:09> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-02-29 21:12:09> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-02-29 21:12:09> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-02-29 21:12:09> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 21:12:09> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-02-29 21:12:09> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 21:12:09> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-02-29 21:12:09> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-02-29 21:12:09> Program: Building embedded zip file for Setup.exe
+2016-02-29 21:13:19> Program: Starting Squirrel Updater: -releasify .\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:13:19> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:13:19> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:13:19> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-02-29 21:13:20> ReleasePackage: Extracting dependent packages: []
+2016-02-29 21:13:20> ReleasePackage: Removing unnecessary data
+2016-02-29 21:13:20> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 21:13:20> Program: Building embedded zip file for Setup.exe
+2016-02-29 21:18:23> Program: Starting Squirrel Updater: -releasify .\SquirrelTest.1.0.1.nupkg
+2016-02-29 21:18:23> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:18:23> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.1.nupkg
+2016-02-29 21:18:23> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.1.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.1-full.nupkg
+2016-02-29 21:18:23> ReleasePackage: Extracting dependent packages: []
+2016-02-29 21:18:23> ReleasePackage: Removing unnecessary data
+2016-02-29 21:18:23> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 21:18:23> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.1-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-02-29 21:18:24> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-02-29 21:18:24> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-02-29 21:18:24> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-02-29 21:18:24> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-02-29 21:18:24> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-02-29 21:18:24> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-02-29 21:18:24> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-02-29 21:18:24> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-02-29 21:18:24> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 21:18:24> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-02-29 21:18:24> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 21:18:24> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-02-29 21:18:24> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-02-29 21:18:24> Program: Building embedded zip file for Setup.exe
+2016-02-29 21:28:26> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:28:26> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:28:26> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:28:26> Unhandled exception: System.InvalidOperationException: The input package file C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg targets no platform and cannot be transformed into a release package.
+   at Squirrel.ReleasePackage.CreateReleasePackage(String outputFile, String packagesRootDir, Func`2 releaseNotesProcessor, Action`1 contentsPostProcessHook)
+   at Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi)
+   at Squirrel.Update.Program.executeCommandLine(String[] args)
+   at Squirrel.Update.Program.main(String[] args)
+2016-02-29 21:28:50> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:28:50> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:28:50> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:28:50> Unhandled exception: System.InvalidOperationException: The input package file C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg targets no platform and cannot be transformed into a release package.
+   at Squirrel.ReleasePackage.CreateReleasePackage(String outputFile, String packagesRootDir, Func`2 releaseNotesProcessor, Action`1 contentsPostProcessHook)
+   at Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi)
+   at Squirrel.Update.Program.executeCommandLine(String[] args)
+   at Squirrel.Update.Program.main(String[] args)
+2016-02-29 21:29:11> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:29:11> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:29:11> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:29:11> Unhandled exception: System.InvalidOperationException: The input package file C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg targets no platform and cannot be transformed into a release package.
+   at Squirrel.ReleasePackage.CreateReleasePackage(String outputFile, String packagesRootDir, Func`2 releaseNotesProcessor, Action`1 contentsPostProcessHook)
+   at Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi)
+   at Squirrel.Update.Program.executeCommandLine(String[] args)
+   at Squirrel.Update.Program.main(String[] args)
+2016-02-29 21:30:47> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:30:47> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:30:47> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:30:47> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-02-29 21:30:47> ReleasePackage: Extracting dependent packages: []
+2016-02-29 21:30:47> ReleasePackage: Removing unnecessary data
+2016-02-29 21:30:47> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 21:30:47> Program: Building embedded zip file for Setup.exe
+2016-02-29 21:34:11> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-02-29 21:34:11> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:34:11> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-02-29 21:34:12> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-02-29 21:34:12> ReleasePackage: Extracting dependent packages: []
+2016-02-29 21:34:12> ReleasePackage: Removing unnecessary data
+2016-02-29 21:34:12> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 21:34:12> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-02-29 21:34:13> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-02-29 21:34:13> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-02-29 21:34:13> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-02-29 21:34:13> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-02-29 21:34:13> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-02-29 21:34:13> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-02-29 21:34:13> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-02-29 21:34:13> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-02-29 21:34:13> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 21:34:13> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-02-29 21:34:13> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 21:34:13> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-02-29 21:34:13> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-02-29 21:34:13> Program: Building embedded zip file for Setup.exe
+2016-02-29 21:45:30> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:45:30> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:45:30> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:45:30> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-02-29 21:45:30> ReleasePackage: Extracting dependent packages: []
+2016-02-29 21:45:30> ReleasePackage: Removing unnecessary data
+2016-02-29 21:45:30> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 21:45:31> Program: Building embedded zip file for Setup.exe
+2016-02-29 21:46:39> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-02-29 21:46:39> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:46:39> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-02-29 21:46:39> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-02-29 21:46:39> ReleasePackage: Extracting dependent packages: []
+2016-02-29 21:46:39> ReleasePackage: Removing unnecessary data
+2016-02-29 21:46:39> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 21:46:39> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-02-29 21:46:40> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-02-29 21:46:40> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-02-29 21:46:40> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-02-29 21:46:40> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-02-29 21:46:40> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-02-29 21:46:40> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-02-29 21:46:40> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-02-29 21:46:40> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-02-29 21:46:40> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 21:46:40> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-02-29 21:46:40> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 21:46:40> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-02-29 21:46:40> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-02-29 21:46:40> Program: Building embedded zip file for Setup.exe
+2016-02-29 21:50:18> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:50:18> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:50:18> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:50:18> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-02-29 21:50:18> ReleasePackage: Extracting dependent packages: []
+2016-02-29 21:50:18> ReleasePackage: Removing unnecessary data
+2016-02-29 21:50:18> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 21:50:19> Program: Building embedded zip file for Setup.exe
+2016-02-29 21:51:26> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-02-29 21:51:26> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:51:26> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-02-29 21:51:26> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-02-29 21:51:26> ReleasePackage: Extracting dependent packages: []
+2016-02-29 21:51:26> ReleasePackage: Removing unnecessary data
+2016-02-29 21:51:26> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 21:51:26> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe hasn't changed, writing dummy file
+2016-02-29 21:51:27> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-02-29 21:51:27> Program: Building embedded zip file for Setup.exe
+2016-02-29 21:54:20> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:54:20> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:54:20> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-02-29 21:54:20> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-02-29 21:54:20> ReleasePackage: Extracting dependent packages: []
+2016-02-29 21:54:20> ReleasePackage: Removing unnecessary data
+2016-02-29 21:54:20> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 21:54:20> Program: Building embedded zip file for Setup.exe
+2016-02-29 21:55:19> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-02-29 21:55:19> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-02-29 21:55:19> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-02-29 21:55:19> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-02-29 21:55:20> ReleasePackage: Extracting dependent packages: []
+2016-02-29 21:55:20> ReleasePackage: Removing unnecessary data
+2016-02-29 21:55:20> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-02-29 21:55:20> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-02-29 21:55:20> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-02-29 21:55:20> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-02-29 21:55:20> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-02-29 21:55:20> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-02-29 21:55:20> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-02-29 21:55:20> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-02-29 21:55:20> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-02-29 21:55:20> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-02-29 21:55:20> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 21:55:20> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-02-29 21:55:20> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-02-29 21:55:20> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-02-29 21:55:20> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-02-29 21:55:20> Program: Building embedded zip file for Setup.exe
+2016-03-01 09:20:32> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 09:20:32> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 09:20:32> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 09:20:32> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 09:20:32> ReleasePackage: Extracting dependent packages: []
+2016-03-01 09:20:32> ReleasePackage: Removing unnecessary data
+2016-03-01 09:20:32> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 09:20:32> Program: Building embedded zip file for Setup.exe
+2016-03-01 09:39:46> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 09:39:46> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 09:39:46> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 09:39:46> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 09:39:46> ReleasePackage: Extracting dependent packages: []
+2016-03-01 09:39:46> ReleasePackage: Removing unnecessary data
+2016-03-01 09:39:46> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 09:39:46> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 09:39:46> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 09:39:46> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 09:39:46> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 09:39:46> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 09:39:46> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 09:39:46> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 09:39:46> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 09:39:46> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 09:39:46> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 09:39:46> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 09:39:46> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 09:39:46> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 09:39:46> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 09:39:47> Program: Building embedded zip file for Setup.exe
+2016-03-01 12:26:11> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 12:26:11> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 12:26:11> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 12:26:11> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 12:26:11> ReleasePackage: Extracting dependent packages: []
+2016-03-01 12:26:11> ReleasePackage: Removing unnecessary data
+2016-03-01 12:26:11> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 12:26:11> Program: Building embedded zip file for Setup.exe
+2016-03-01 12:27:45> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 12:27:45> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 12:27:45> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 12:27:45> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 12:27:45> ReleasePackage: Extracting dependent packages: []
+2016-03-01 12:27:45> ReleasePackage: Removing unnecessary data
+2016-03-01 12:27:45> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 12:27:45> Program: Building embedded zip file for Setup.exe
+2016-03-01 12:34:04> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 12:34:04> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 12:34:04> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 12:34:04> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 12:34:05> ReleasePackage: Extracting dependent packages: []
+2016-03-01 12:34:05> ReleasePackage: Removing unnecessary data
+2016-03-01 12:34:05> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 12:34:05> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 12:34:05> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 12:34:05> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 12:34:05> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 12:34:05> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 12:34:05> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 12:34:05> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 12:34:05> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 12:34:05> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 12:34:05> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 12:34:05> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 12:34:05> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 12:34:05> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 12:34:05> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 12:34:05> Program: Building embedded zip file for Setup.exe
+2016-03-01 12:58:56> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 12:58:56> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 12:58:56> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 12:58:56> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 12:58:56> ReleasePackage: Extracting dependent packages: []
+2016-03-01 12:58:56> ReleasePackage: Removing unnecessary data
+2016-03-01 12:58:56> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 12:58:56> Program: Building embedded zip file for Setup.exe
+2016-03-01 13:01:31> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 13:01:31> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 13:01:31> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 13:01:31> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 13:01:31> ReleasePackage: Extracting dependent packages: []
+2016-03-01 13:01:31> ReleasePackage: Removing unnecessary data
+2016-03-01 13:01:31> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 13:01:32> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 13:01:32> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 13:01:32> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 13:01:32> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 13:01:32> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 13:01:32> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 13:01:32> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 13:01:32> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 13:01:32> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 13:01:32> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 13:01:32> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 13:01:32> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 13:01:32> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 13:01:32> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 13:01:32> Program: Building embedded zip file for Setup.exe
+2016-03-01 13:08:33> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:08:33> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 13:08:33> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:08:33> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 13:08:33> ReleasePackage: Extracting dependent packages: []
+2016-03-01 13:08:33> ReleasePackage: Removing unnecessary data
+2016-03-01 13:08:33> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 13:08:34> Program: Building embedded zip file for Setup.exe
+2016-03-01 13:39:44> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:39:44> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 13:39:44> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:39:44> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 13:39:44> ReleasePackage: Extracting dependent packages: []
+2016-03-01 13:39:44> ReleasePackage: Removing unnecessary data
+2016-03-01 13:39:44> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 13:39:44> Program: Building embedded zip file for Setup.exe
+2016-03-01 13:40:53> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:40:53> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 13:40:53> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:40:53> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 13:40:53> ReleasePackage: Extracting dependent packages: []
+2016-03-01 13:40:53> ReleasePackage: Removing unnecessary data
+2016-03-01 13:40:53> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 13:40:54> Program: Building embedded zip file for Setup.exe
+2016-03-01 13:43:02> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:43:02> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 13:43:02> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:43:02> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 13:43:02> ReleasePackage: Extracting dependent packages: []
+2016-03-01 13:43:02> ReleasePackage: Removing unnecessary data
+2016-03-01 13:43:02> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 13:43:02> Program: Building embedded zip file for Setup.exe
+2016-03-01 13:44:08> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:44:08> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 13:44:08> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:44:08> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 13:44:09> ReleasePackage: Extracting dependent packages: []
+2016-03-01 13:44:09> ReleasePackage: Removing unnecessary data
+2016-03-01 13:44:09> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 13:44:09> Program: Building embedded zip file for Setup.exe
+2016-03-01 13:53:16> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:53:16> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 13:53:16> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:53:16> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 13:53:16> ReleasePackage: Extracting dependent packages: []
+2016-03-01 13:53:16> ReleasePackage: Removing unnecessary data
+2016-03-01 13:53:16> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 13:53:16> Program: Building embedded zip file for Setup.exe
+2016-03-01 13:54:26> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:54:26> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 13:54:26> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:54:26> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 13:54:26> ReleasePackage: Extracting dependent packages: []
+2016-03-01 13:54:26> ReleasePackage: Removing unnecessary data
+2016-03-01 13:54:26> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 13:54:27> Program: Building embedded zip file for Setup.exe
+2016-03-01 13:56:58> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:56:58> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 13:56:58> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:56:58> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 13:56:58> ReleasePackage: Extracting dependent packages: []
+2016-03-01 13:56:58> ReleasePackage: Removing unnecessary data
+2016-03-01 13:56:58> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 13:56:58> Program: Building embedded zip file for Setup.exe
+2016-03-01 13:58:26> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:58:26> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 13:58:26> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:58:26> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 13:58:26> ReleasePackage: Extracting dependent packages: []
+2016-03-01 13:58:26> ReleasePackage: Removing unnecessary data
+2016-03-01 13:58:26> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 13:58:26> Program: Building embedded zip file for Setup.exe
+2016-03-01 13:59:50> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:59:50> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 13:59:50> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 13:59:50> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 13:59:50> ReleasePackage: Extracting dependent packages: []
+2016-03-01 13:59:50> ReleasePackage: Removing unnecessary data
+2016-03-01 13:59:50> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 13:59:50> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:03:37> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:03:37> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:03:37> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:03:37> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 14:03:37> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:03:37> ReleasePackage: Removing unnecessary data
+2016-03-01 14:03:37> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:03:37> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:04:43> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 14:04:43> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:04:43> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 14:04:43> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 14:04:44> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:04:44> ReleasePackage: Removing unnecessary data
+2016-03-01 14:04:44> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:04:44> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 14:04:44> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 14:04:44> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 14:04:44> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 14:04:44> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 14:04:44> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 14:04:44> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 14:04:44> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 14:04:44> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 14:04:44> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 14:04:44> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 14:04:44> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 14:04:44> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 14:04:44> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 14:04:44> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:20:54> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:20:54> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:20:54> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:20:54> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 14:20:54> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:20:54> ReleasePackage: Removing unnecessary data
+2016-03-01 14:20:54> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:20:54> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:27:32> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:27:32> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:27:32> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:27:33> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 14:27:33> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:27:33> ReleasePackage: Removing unnecessary data
+2016-03-01 14:27:33> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:27:33> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:33:22> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:33:22> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:33:22> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:33:22> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 14:33:23> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:33:23> ReleasePackage: Removing unnecessary data
+2016-03-01 14:33:23> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:33:23> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:34:48> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 14:34:48> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:34:48> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 14:34:48> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 14:34:48> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:34:48> ReleasePackage: Removing unnecessary data
+2016-03-01 14:34:48> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:34:48> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 14:34:49> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 14:34:49> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 14:34:49> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 14:34:49> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 14:34:49> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 14:34:49> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 14:34:49> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 14:34:49> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 14:34:49> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 14:34:49> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 14:34:49> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 14:34:49> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 14:34:49> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 14:34:49> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:36:32> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:36:32> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:36:32> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:36:32> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 14:36:32> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:36:32> ReleasePackage: Removing unnecessary data
+2016-03-01 14:36:32> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:36:32> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:37:41> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 14:37:41> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:37:41> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 14:37:41> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 14:37:42> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:37:42> ReleasePackage: Removing unnecessary data
+2016-03-01 14:37:42> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:37:42> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 14:37:42> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 14:37:42> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 14:37:42> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 14:37:42> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 14:37:42> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 14:37:42> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 14:37:42> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 14:37:42> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 14:37:42> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 14:37:42> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 14:37:42> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 14:37:42> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 14:37:42> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 14:37:42> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:41:09> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:41:09> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:41:09> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:41:09> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 14:41:09> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:41:09> ReleasePackage: Removing unnecessary data
+2016-03-01 14:41:09> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:41:09> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:42:14> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 14:42:14> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:42:14> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 14:42:14> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 14:42:14> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:42:14> ReleasePackage: Removing unnecessary data
+2016-03-01 14:42:14> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:42:14> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 14:42:15> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 14:42:15> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 14:42:15> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 14:42:15> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 14:42:15> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 14:42:15> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 14:42:15> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 14:42:15> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 14:42:15> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 14:42:15> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 14:42:15> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 14:42:15> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 14:42:15> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 14:42:15> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:44:28> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:44:28> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:44:28> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:44:28> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 14:44:28> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:44:28> ReleasePackage: Removing unnecessary data
+2016-03-01 14:44:28> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:44:28> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:45:56> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 14:45:56> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:45:56> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 14:45:56> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 14:45:56> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:45:56> ReleasePackage: Removing unnecessary data
+2016-03-01 14:45:56> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:45:56> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 14:45:56> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 14:45:56> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 14:45:56> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 14:45:56> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 14:45:56> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 14:45:56> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 14:45:56> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 14:45:56> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 14:45:56> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 14:45:56> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 14:45:56> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 14:45:56> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 14:45:56> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 14:45:57> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:56:31> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:56:31> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:56:31> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:56:31> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 14:56:31> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:56:31> ReleasePackage: Removing unnecessary data
+2016-03-01 14:56:31> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:56:32> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:57:40> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:57:40> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:57:40> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 14:57:40> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 14:57:40> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:57:40> ReleasePackage: Removing unnecessary data
+2016-03-01 14:57:41> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:57:41> Program: Building embedded zip file for Setup.exe
+2016-03-01 14:59:10> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 14:59:10> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 14:59:10> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 14:59:10> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 14:59:10> ReleasePackage: Extracting dependent packages: []
+2016-03-01 14:59:10> ReleasePackage: Removing unnecessary data
+2016-03-01 14:59:10> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 14:59:10> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 14:59:11> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 14:59:11> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 14:59:11> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 14:59:11> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 14:59:11> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 14:59:11> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 14:59:11> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 14:59:11> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 14:59:11> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 14:59:11> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 14:59:11> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 14:59:11> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 14:59:11> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 14:59:11> Program: Building embedded zip file for Setup.exe
+2016-03-01 15:06:35> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 15:06:35> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 15:06:35> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 15:06:35> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 15:06:35> ReleasePackage: Extracting dependent packages: []
+2016-03-01 15:06:35> ReleasePackage: Removing unnecessary data
+2016-03-01 15:06:35> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 15:06:35> Program: Building embedded zip file for Setup.exe
+2016-03-01 15:09:29> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 15:09:29> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 15:09:29> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 15:09:29> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 15:09:29> ReleasePackage: Extracting dependent packages: []
+2016-03-01 15:09:29> ReleasePackage: Removing unnecessary data
+2016-03-01 15:09:29> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 15:09:29> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 15:09:30> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 15:09:30> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 15:09:30> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 15:09:30> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 15:09:30> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 15:09:30> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 15:09:30> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 15:09:30> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 15:09:30> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 15:09:30> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 15:09:30> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 15:09:30> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 15:09:30> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 15:09:30> Program: Building embedded zip file for Setup.exe
+2016-03-01 16:04:49> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:04:49> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 16:04:49> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:04:49> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 16:04:49> ReleasePackage: Extracting dependent packages: []
+2016-03-01 16:04:49> ReleasePackage: Removing unnecessary data
+2016-03-01 16:04:49> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 16:04:49> Program: Building embedded zip file for Setup.exe
+2016-03-01 16:06:04> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 16:06:04> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 16:06:04> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 16:06:04> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 16:06:05> ReleasePackage: Extracting dependent packages: []
+2016-03-01 16:06:05> ReleasePackage: Removing unnecessary data
+2016-03-01 16:06:05> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 16:06:05> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 16:06:05> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 16:06:05> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 16:06:05> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 16:06:05> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 16:06:05> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 16:06:05> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 16:06:05> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 16:06:05> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 16:06:05> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 16:06:05> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 16:06:05> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 16:06:05> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 16:06:05> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 16:06:05> Program: Building embedded zip file for Setup.exe
+2016-03-01 16:11:36> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:11:36> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 16:11:36> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:11:36> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 16:11:37> ReleasePackage: Extracting dependent packages: []
+2016-03-01 16:11:37> ReleasePackage: Removing unnecessary data
+2016-03-01 16:11:37> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 16:11:37> Program: Building embedded zip file for Setup.exe
+2016-03-01 16:16:05> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:16:05> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 16:16:05> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:16:05> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 16:16:05> ReleasePackage: Extracting dependent packages: []
+2016-03-01 16:16:05> ReleasePackage: Removing unnecessary data
+2016-03-01 16:16:05> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 16:16:06> Program: Building embedded zip file for Setup.exe
+2016-03-01 16:19:44> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:19:44> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 16:19:44> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:19:44> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 16:19:45> ReleasePackage: Extracting dependent packages: []
+2016-03-01 16:19:45> ReleasePackage: Removing unnecessary data
+2016-03-01 16:19:45> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 16:19:45> Program: Building embedded zip file for Setup.exe
+2016-03-01 16:21:46> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:21:46> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 16:21:46> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:21:46> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 16:21:47> ReleasePackage: Extracting dependent packages: []
+2016-03-01 16:21:47> ReleasePackage: Removing unnecessary data
+2016-03-01 16:21:47> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 16:21:47> Program: Building embedded zip file for Setup.exe
+2016-03-01 16:23:15> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:23:15> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 16:23:15> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:23:15> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 16:23:15> ReleasePackage: Extracting dependent packages: []
+2016-03-01 16:23:15> ReleasePackage: Removing unnecessary data
+2016-03-01 16:23:15> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 16:23:15> Program: Building embedded zip file for Setup.exe
+2016-03-01 16:25:26> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 16:25:26> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 16:25:26> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 16:25:26> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 16:25:27> ReleasePackage: Extracting dependent packages: []
+2016-03-01 16:25:27> ReleasePackage: Removing unnecessary data
+2016-03-01 16:25:27> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 16:25:27> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 16:25:27> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 16:25:27> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 16:25:27> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 16:25:27> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 16:25:27> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 16:25:27> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 16:25:27> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 16:25:27> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 16:25:27> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 16:25:27> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 16:25:27> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 16:25:27> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 16:25:27> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 16:25:27> Program: Building embedded zip file for Setup.exe
+2016-03-01 16:33:55> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:33:55> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 16:33:55> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:33:55> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 16:33:56> ReleasePackage: Extracting dependent packages: []
+2016-03-01 16:33:56> ReleasePackage: Removing unnecessary data
+2016-03-01 16:33:56> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 16:33:56> Program: Building embedded zip file for Setup.exe
+2016-03-01 16:38:20> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:38:20> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 16:38:20> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-01 16:38:20> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-01 16:38:20> ReleasePackage: Extracting dependent packages: []
+2016-03-01 16:38:20> ReleasePackage: Removing unnecessary data
+2016-03-01 16:38:20> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 16:38:20> Program: Building embedded zip file for Setup.exe
+2016-03-01 16:41:03> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-01 16:41:03> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-01 16:41:03> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-01 16:41:03> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-01 16:41:03> ReleasePackage: Extracting dependent packages: []
+2016-03-01 16:41:03> ReleasePackage: Removing unnecessary data
+2016-03-01 16:41:03> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-01 16:41:03> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-01 16:41:03> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-01 16:41:03> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-01 16:41:03> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-01 16:41:03> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-01 16:41:03> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-01 16:41:03> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-01 16:41:03> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-01 16:41:03> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-01 16:41:03> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 16:41:03> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-01 16:41:03> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-01 16:41:03> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-01 16:41:03> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-01 16:41:03> Program: Building embedded zip file for Setup.exe
+2016-03-02 08:49:43> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-02 08:49:43> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-02 08:49:43> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-02 08:49:43> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-02 08:49:44> ReleasePackage: Extracting dependent packages: []
+2016-03-02 08:49:44> ReleasePackage: Removing unnecessary data
+2016-03-02 08:49:44> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-02 08:49:44> Program: Building embedded zip file for Setup.exe
+2016-03-02 08:55:02> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-02 08:55:02> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-02 08:55:02> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-02 08:55:02> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-02 08:55:02> ReleasePackage: Extracting dependent packages: []
+2016-03-02 08:55:02> ReleasePackage: Removing unnecessary data
+2016-03-02 08:55:02> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-02 08:55:02> Program: Building embedded zip file for Setup.exe
+2016-03-02 09:27:11> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-02 09:27:11> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-02 09:27:11> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-02 09:27:11> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-02 09:27:11> ReleasePackage: Extracting dependent packages: []
+2016-03-02 09:27:11> ReleasePackage: Removing unnecessary data
+2016-03-02 09:27:11> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-02 09:27:11> Program: Building embedded zip file for Setup.exe
+2016-03-02 09:30:48> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-02 09:30:48> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-02 09:30:48> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-02 09:30:48> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-02 09:30:48> ReleasePackage: Extracting dependent packages: []
+2016-03-02 09:30:48> ReleasePackage: Removing unnecessary data
+2016-03-02 09:30:48> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-02 09:30:48> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-02 09:30:49> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-02 09:30:49> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-02 09:30:49> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-02 09:30:49> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-02 09:30:49> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-02 09:30:49> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-02 09:30:49> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-02 09:30:49> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-02 09:30:49> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-02 09:30:49> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-02 09:30:49> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-02 09:30:49> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-02 09:30:49> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-02 09:30:49> Program: Building embedded zip file for Setup.exe
+2016-03-02 09:34:44> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-02 09:34:44> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-02 09:34:44> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-02 09:34:44> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-02 09:34:44> ReleasePackage: Extracting dependent packages: []
+2016-03-02 09:34:44> ReleasePackage: Removing unnecessary data
+2016-03-02 09:34:44> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-02 09:34:44> Program: Building embedded zip file for Setup.exe
+2016-03-02 09:37:59> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-02 09:37:59> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-02 09:37:59> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-02 09:37:59> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-02 09:37:59> ReleasePackage: Extracting dependent packages: []
+2016-03-02 09:37:59> ReleasePackage: Removing unnecessary data
+2016-03-02 09:37:59> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-02 09:37:59> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-02 09:37:59> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-02 09:37:59> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-02 09:37:59> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-02 09:37:59> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-02 09:37:59> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-02 09:37:59> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-02 09:37:59> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-02 09:37:59> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-02 09:37:59> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-02 09:37:59> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-02 09:37:59> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-02 09:37:59> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-02 09:37:59> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-02 09:37:59> Program: Building embedded zip file for Setup.exe
+2016-03-02 11:58:33> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.1.0.0.nupkg
+2016-03-02 11:58:33> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-02 11:58:33> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg
+2016-03-02 11:58:33> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.1.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-1.0.0-full.nupkg
+2016-03-02 11:58:33> ReleasePackage: Extracting dependent packages: []
+2016-03-02 11:58:33> ReleasePackage: Removing unnecessary data
+2016-03-02 11:58:33> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-02 11:58:33> Program: Building embedded zip file for Setup.exe
+2016-03-02 12:02:04> Program: Starting Squirrel Updater: --releasify .\SquirrelTest.2.0.0.nupkg
+2016-03-02 12:02:04> Program: Bootstrapper EXE found at:C:\Projects\personal\SquirrelTest\packages\squirrel.windows.1.2.5\tools\Setup.exe
+2016-03-02 12:02:04> Program: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg
+2016-03-02 12:02:04> ReleasePackage: Creating release package: C:\Projects\personal\SquirrelTest\Releases\SquirrelTest.2.0.0.nupkg => C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg
+2016-03-02 12:02:05> ReleasePackage: Extracting dependent packages: []
+2016-03-02 12:02:05> ReleasePackage: Removing unnecessary data
+2016-03-02 12:02:05> ReleasePackage: No release notes found in C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\SquirrelTest.nuspec
+2016-03-02 12:02:05> DeltaPackageBuilder: Extracting .\Releases\SquirrelTest-1.0.0-full.nupkg and C:\Projects\personal\SquirrelTest\Releases\SquirrelTest-2.0.0-full.nupkg into C:\Users\Mads\AppData\Local\SquirrelTemp\tempb
+2016-03-02 12:02:06> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.dll hasn't changed, writing dummy file
+2016-03-02 12:02:06> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.MsDelta.dll hasn't changed, writing dummy file
+2016-03-02 12:02:06> DeltaPackageBuilder: \lib\net45\DeltaCompressionDotNet.PatchApi.dll hasn't changed, writing dummy file
+2016-03-02 12:02:06> DeltaPackageBuilder: \lib\net45\ICSharpCode.SharpZipLib.dll hasn't changed, writing dummy file
+2016-03-02 12:02:06> DeltaPackageBuilder: \lib\net45\Mono.Cecil.dll hasn't changed, writing dummy file
+2016-03-02 12:02:06> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Mdb.dll hasn't changed, writing dummy file
+2016-03-02 12:02:06> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Pdb.dll hasn't changed, writing dummy file
+2016-03-02 12:02:06> DeltaPackageBuilder: \lib\net45\Mono.Cecil.Rocks.dll hasn't changed, writing dummy file
+2016-03-02 12:02:06> DeltaPackageBuilder: \lib\net45\NuGet.Squirrel.dll hasn't changed, writing dummy file
+2016-03-02 12:02:06> DeltaPackageBuilder: \lib\net45\Splat.dll hasn't changed, writing dummy file
+2016-03-02 12:02:06> DeltaPackageBuilder: \lib\net45\Squirrel.dll hasn't changed, writing dummy file
+2016-03-02 12:02:06> DeltaPackageBuilder: Delta patching C:\Users\Mads\AppData\Local\SquirrelTemp\tempa\lib\net45\SquirrelTest.exe => C:\Users\Mads\AppData\Local\SquirrelTemp\tempb\lib\net45\SquirrelTest.exe
+2016-03-02 12:02:06> DeltaPackageBuilder: \lib\net45\SquirrelTest.exe.config hasn't changed, writing dummy file
+2016-03-02 12:02:06> Program: Building embedded zip file for Setup.exe
